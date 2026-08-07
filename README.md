@@ -3,10 +3,8 @@
 
 
 ## المشروع الأول
-![Raknah Gantt Chart](./Raknah-Gantt-Chart.png)
-
-
 **الاسم:** Gantt chart Raknah
+![Raknah Gantt Chart](./Raknah-Gantt-Chart.png)
 
 **الوصف:** تم إعداد هذا المخطط كجزء من مشروع التخرج ركنه (Raknah). كنت مسؤولًا عن تخطيط الجدول الزمني للمشروع، وإعداد مخطط جانت، وتحديثه ومتابعة تقدم المهام طوال فترة تنفيذ المشروع.
 **رابط التحميل:** [اضغط هنا]([تحميل مخطط جانت بصيغة Excel](./Raknah-Gantt-Chart.xlsx)
