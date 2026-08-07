@@ -7,6 +7,6 @@
 ![Raknah Gantt Chart](./Raknah-Gantt-Chart.png)
 
 **الوصف:** تم إعداد هذا المخطط كجزء من مشروع التخرج ركنه (Raknah). كنت مسؤولًا عن تخطيط الجدول الزمني للمشروع، وإعداد مخطط جانت، وتحديثه ومتابعة تقدم المهام طوال فترة تنفيذ المشروع.
-**رابط التحميل:** [تحميل مخطط جانت بصيغة Excel](./Raknah-Gantt-Chart.xlsx)
+**رابط التحميل:** [📥 تحميل مخطط جانت بصيغة Excel](https://github.com/khalid4440/my-projects/raw/main/Raknah-Gantt-Chart.xlsx?download=1)
 
 ---
